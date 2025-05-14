@@ -16,9 +16,7 @@
 - 支持多视角新视图渲染、可编辑场景理解等扩展任务。
 
 ## 🔗 Resources
-- [📄 Paper PDF](./Single-view-3D-Scene-Reconstruction-with-High-fidelity-Shape-and-Texture.pdf)
-- [🔗 Project Page](https://dali-jack.github.io/SSR/)
-- [💻 Code Repository](https://github.com/DaLi-Jack/SSR-code)
+[📄 Paper PDF](./Single-view-3D-Scene-Reconstruction-with-High-fidelity-Shape-and-Texture.pdf) | [🔗 Project Page](https://dali-jack.github.io/SSR/) | [💻 Code Repository](https://github.com/DaLi-Jack/SSR-code)
 
 > 🔍 *Keywords*: Single-view 3D Reconstruction, Neural Implicit Surface, Radiance Field, SSR, Novel View Synthesis  
 > 🗂️ *Dataset*: 3D-FRONT, Pix3D
