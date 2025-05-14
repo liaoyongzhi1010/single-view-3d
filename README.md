@@ -1,4 +1,4 @@
-# Single-View 3D Reconstruction Hub / 单视图三维重建资源库
+# Single-View 3D Reconstruction Hub
 
 > A curated, bilingual collection of papers, code and datasets for single-image 3-D reconstruction research (2024–2025).  
 > 📚 单视图三维重建领域的最新论文、代码和资源整理。
