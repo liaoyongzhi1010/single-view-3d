@@ -9,15 +9,22 @@
 
 ### 1. Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture
 **Authors**: Yixin Chen, Junfeng Ni, Nan Jiang, Yaowei Zhang, Yixin Zhu, Siyuan Huang  
-**Affiliations**: BIGAI, Tsinghua University, Peking University  
-**PDF**: [📄 Link](./Single-view-3D-Scene-Reconstruction-with-High-fidelity-Shape-and-Texture.pdf)  
-**Code**: [GitHub](https://github.com/DaLi-Jack/SSR-code)  
-**Project**: [Homepage](https://dali-jack.github.io/SSR/)
+**Affiliations**: BIGAI, Tsinghua University, Peking University
 
 **Highlights**:
-- 提出 SSR 框架，结合神经隐式形状与辐射场，提升形状和纹理精度；
-- 两阶段训练策略（3D 形状 + 2D 渲染监督）缓解形状-外观歧义；
-- 在 3D-FRONT 和 Pix3D 上分别提升精度 27.7% 与 11.6%。
+- 提出 SSR（Single-view neural implicit Shape and Radiance field）框架，结合隐式形状建模与神经辐射场。
+- 采用两阶段训练策略：首先通过 3D 监督学习形状，再联合 2D 渲染监督优化纹理表现。
+- 有效缓解了图像到几何的形状-外观歧义问题。
+- 在 3D-FRONT 和 Pix3D 上性能显著优于现有方法，提升重建精度分别为 27.7% 和 11.6%。
+- 支持多视角新视图渲染、可编辑场景理解等扩展任务。
+
+## 🔗 Resources
+- [📄 Paper PDF](./Single-view-3D-Scene-Reconstruction-with-High-fidelity-Shape-and-Texture.pdf)
+- [🔗 Project Page](https://dali-jack.github.io/SSR/)
+- [💻 Code Repository](https://github.com/DaLi-Jack/SSR-code)
+
+> 🔍 *Keywords*: Single-view 3D Reconstruction, Neural Implicit Surface, Radiance Field, SSR, Novel View Synthesis  
+> 🗂️ *Dataset*: 3D-FRONT, Pix3D
 
 ---
 
