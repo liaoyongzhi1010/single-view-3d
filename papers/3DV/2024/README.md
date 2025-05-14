@@ -1,7 +1,37 @@
-# 📚 3DV 2024 · Single-view 3D Reconstruction Papers
+# 📚 3DV 2024 - Single-view 3D Reconstruction Paper List
 
-本页整理了 3DV 2024 年会议中与单图三维重建（Single-view 3D Reconstruction）相关的论文，包括论文题目、作者、机构简介、核心贡献摘要及相关链接。
+> A curated list of SVR-related papers from 3DV 2024.  
+> 单图三维重建方向的精选论文列表（3DV 2024）
 
-| No. | Title | Authors & Affiliations | Summary | PDF | Project / Code |
-|-----|-------|------------------------|---------|-----|----------------|
-| 1 | **Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture** | Yixin Chen, Junfeng Ni, Nan Jiang, Yaowei Zhang, Yixin Zhu, Siyuan Huang<br><sub>BIGAI, Tsinghua University, Peking University</sub> | SSR框架结合隐式形状与辐射场；两阶段训练策略，提升形状纹理重建质量，适用于新视角渲染和编辑；Pix3D / 3D-FRONT 精度提升显著。 | [📄 PDF](./Single-view-3D-Scene-Reconstruction-with-High-fidelity-Shape-and-Texture.pdf) | [🌐 Website](https://dali-jack.github.io/SSR/)<br>[💻 Code](https://github.com/DaLi-Jack/SSR-code) |
+---
+
+## 📄 Paper List
+
+### 1. Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture
+**Authors**: Yixin Chen, Junfeng Ni, Nan Jiang, Yaowei Zhang, Yixin Zhu, Siyuan Huang  
+**Affiliations**: BIGAI, Tsinghua University, Peking University  
+**PDF**: [📄 Link](./Single-view-3D-Scene-Reconstruction-with-High-fidelity-Shape-and-Texture.pdf)  
+**Code**: [GitHub](https://github.com/DaLi-Jack/SSR-code)  
+**Project**: [Homepage](https://dali-jack.github.io/SSR/)
+
+**Highlights**:
+- 提出 SSR 框架，结合神经隐式形状与辐射场，提升形状和纹理精度；
+- 两阶段训练策略（3D 形状 + 2D 渲染监督）缓解形状-外观歧义；
+- 在 3D-FRONT 和 Pix3D 上分别提升精度 27.7% 与 11.6%。
+
+---
+
+<!-- 以下是模板，添加新论文时参考即可 -->
+<!--
+### 2. [论文标题]  
+**Authors**: ...  
+**Affiliations**: ...  
+**PDF**: [📄 Link](./xxx.pdf)  
+**Code**: [GitHub](...)  
+**Project**: [Homepage](...)  
+
+**Highlights**:
+- xxx
+- xxx
+-->
+
