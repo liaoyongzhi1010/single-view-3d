@@ -1,16 +1,13 @@
-# single-view-3d-reconstruction-papers
-📚 单视图三维重建领域的最新论文、代码和资源整理。
-
 # Single-View 3D Reconstruction Hub / 单视图三维重建资源库
 
 > A curated, bilingual collection of papers, code and datasets for single-image 3-D reconstruction research (2024–2025).  
-> 单视图三维重建领域的论文、代码和数据集的中英双语整理仓库。
+> 📚 单视图三维重建领域的最新论文、代码和资源整理。
 
 ---
 
 ## 🧭 Repository Navigator / 仓库导航
 
-| Section | Path | Description (EN) | 说明 (中文) |
+| Section | Path | Description | 说明 |
 |---------|------|------------------|-------------|
 | Experiments | [`code/`](./code) | Re-implementations & runnable baselines | 已跑通的实验与基线代码 |
 | Datasets   | [`datasets/`](./datasets) | Public datasets frequently used in SVR | 常用公开数据集 |
