@@ -5,17 +5,17 @@
 
 ---
 
-## 🧭 Repository Navigator
+## 🧭 Repository Navigator / 仓库导航
 
 | Section | Path | Description | 说明 |
 |---------|------|------------------|-------------|
 | Experiments | [`code/`](./code) | Re-implementations & runnable baselines | 已跑通的实验与基线代码 |
-| Datasets   | [`datasets/`](./datasets) | Public datasets frequently used in single-view 3D reconstruction | 常用公开数据集 |
+| Datasets   | [`datasets/`](./datasets) | Public datasets frequently used in SVR | 常用公开数据集 |
 | Papers     | [`papers/`](./papers) | Conference paper lists | 会议论文索引 |
 
 ---
 
-## 🗂️ Covered Conferences (2024–2025)
+## 🗂️ Covered Conferences (2024–2025) / 涉及会议年份导航
 
 | Conference | 2024 | 2025 |
 |------------|------|------|
@@ -31,13 +31,14 @@
 
 ---
 
-## 🧾 GitHub Pages Archive
+## 🧾 GitHub Pages Archive / GitHub Pages展示站点
 
-We are building a [GitHub Pages site](https://liaoyongzhi1010.github.io/single-view-3d/) to host and visualize all collected papers and resources in a more readable format.
+We are building a [GitHub Pages site](https://liaoyongzhi1010.github.io/single-view-3d/) to host and visualize all collected papers and resources in a more readable format.  
+我们正在构建一个 [GitHub Pages 页面](https://liaoyongzhi1010.github.io/single-view-3d/)，用于更清晰地展示整理的论文与资源。
 
 ---
 
-## 📌 How to Contribute
+## 📌 How to Contribute / 如何贡献
 
 Feel free to submit PRs to update paper lists, add new code, or link datasets.  
 欢迎提交 PR 来更新论文列表、添加新代码或数据集链接。
