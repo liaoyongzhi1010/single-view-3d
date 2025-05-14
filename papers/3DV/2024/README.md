@@ -1,8 +1,5 @@
 # 📚 3DV 2024 - Single-view 3D Reconstruction Paper List
 
-> A curated list of SVR-related papers from 3DV 2024.  
-> 单图三维重建方向的精选论文列表（3DV 2024）
-
 ---
 
 ## 📄 Paper List
@@ -27,18 +24,3 @@
 > 🗂️ *Dataset*: 3D-FRONT, Pix3D
 
 ---
-
-<!-- 以下是模板，添加新论文时参考即可 -->
-<!--
-### 2. [论文标题]  
-**Authors**: ...  
-**Affiliations**: ...  
-**PDF**: [📄 Link](./xxx.pdf)  
-**Code**: [GitHub](...)  
-**Project**: [Homepage](...)  
-
-**Highlights**:
-- xxx
-- xxx
--->
-
