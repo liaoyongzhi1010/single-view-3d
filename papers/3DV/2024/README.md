@@ -1,8 +1,8 @@
 # 📚 3DV 2024 - Single-view 3D Reconstruction Paper List
 
----
-
 ## 📄 Paper List
+
+---
 
 ### 1. Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture
 **Authors**: Yixin Chen, Junfeng Ni, Nan Jiang, Yaowei Zhang, Yixin Zhu, Siyuan Huang  
@@ -18,7 +18,7 @@
 ## 🔗 Resources
 [📄 Paper PDF](./Single-view-3D-Scene-Reconstruction-with-High-fidelity-Shape-and-Texture.pdf) | [🔗 Project Page](https://dali-jack.github.io/SSR/) | [💻 Code Repository](https://github.com/DaLi-Jack/SSR-code)
 
-> 🔍 *Keywords*: Single-view 3D Reconstruction, Neural Implicit Surface, Radiance Field, SSR, Novel View Synthesis  
-> 🗂️ *Dataset*: 3D-FRONT, Pix3D
+🔍 *Keywords*: Single-view 3D Reconstruction, Neural Implicit Surface, Radiance Field, SSR, Novel View Synthesis  
+🗂️ *Dataset*: 3D-FRONT, Pix3D
 
 ---
