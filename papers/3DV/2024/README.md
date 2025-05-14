@@ -1,30 +1,7 @@
-# 📄 Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture
+# 📚 3DV 2024 · Single-view 3D Reconstruction Papers
 
-> 3DV 2024 | 单图三维重建高保真形状与纹理的联合建模
+本页整理了 3DV 2024 年会议中与单图三维重建（Single-view 3D Reconstruction）相关的论文，包括论文题目、作者、机构简介、核心贡献摘要及相关链接。
 
-## 📚 Paper Information
-
-- **Title**: Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture  
-- **Authors**: Yixin Chen, Junfeng Ni, Nan Jiang, Yaowei Zhang, Yixin Zhu, Siyuan Huang  
-- **Affiliations**: BIGAI, Tsinghua University, Peking University  
-- **Conference**: 3DV 2024
-
-## 🌟 Highlights
-
-- 提出 SSR（Single-view neural implicit Shape and Radiance field）框架，结合隐式形状建模与神经辐射场。
-- 采用两阶段训练策略：首先通过 3D 监督学习形状，再联合 2D 渲染监督优化纹理表现。
-- 有效缓解了图像到几何的形状-外观歧义问题。
-- 在 3D-FRONT 和 Pix3D 上性能显著优于现有方法，提升重建精度分别为 27.7% 和 11.6%。
-- 支持多视角新视图渲染、可编辑场景理解等扩展任务。
-
-## 🔗 Resources
-
-- [📄 Paper PDF](./Single-view-3D-Scene-Reconstruction-with-High-fidelity-Shape-and-Texture.pdf)
-- [🔗 Project Page](https://dali-jack.github.io/SSR/)
-- [💻 Code Repository](https://github.com/DaLi-Jack/SSR-code)
-
----
-
-> 🔍 *Keywords*: Single-view 3D Reconstruction, Neural Implicit Surface, Radiance Field, SSR, Novel View Synthesis  
-> 🗂️ *Dataset*: 3D-FRONT, Pix3D
-
+| No. | Title | Authors & Affiliations | Summary | PDF | Project / Code |
+|-----|-------|------------------------|---------|-----|----------------|
+| 1 | **Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture** | Yixin Chen, Junfeng Ni, Nan Jiang, Yaowei Zhang, Yixin Zhu, Siyuan Huang<br><sub>BIGAI, Tsinghua University, Peking University</sub> | SSR框架结合隐式形状与辐射场；两阶段训练策略，提升形状纹理重建质量，适用于新视角渲染和编辑；Pix3D / 3D-FRONT 精度提升显著。 | [📄 PDF](./Single-view-3D-Scene-Reconstruction-with-High-fidelity-Shape-and-Texture.pdf) | [🌐 Website](https://dali-jack.github.io/SSR/)<br>[💻 Code](https://github.com/DaLi-Jack/SSR-code) |
