@@ -31,6 +31,13 @@
 
 ---
 
+## 🧾 GitHub Pages Archive / GitHub Pages展示站点
+
+We are building a [GitHub Pages site](https://liaoyongzhi1010.github.io/single-view-3d/) to host and visualize all collected papers and resources in a more readable format.  
+我们正在构建一个 [GitHub Pages 页面](https://liaoyongzhi1010.github.io/single-view-3d/)，用于更清晰地展示整理的论文与资源。
+
+---
+
 ## 📌 How to Contribute / 如何贡献
 
 Feel free to submit PRs to update paper lists, add new code, or link datasets.  
